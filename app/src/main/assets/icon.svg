@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="日常记账">
+  <rect width="512" height="512" rx="92" fill="#26302d"/>
+  <rect x="116" y="92" width="280" height="328" rx="32" fill="#f8faf7"/>
+  <rect x="146" y="132" width="220" height="58" rx="18" fill="#f3bf3d"/>
+  <path d="M162 238h188M162 288h92M306 288h44M162 338h92M306 338h44" fill="none" stroke="#26302d" stroke-width="24" stroke-linecap="round"/>
+  <path d="M184 70v62M328 70v62" fill="none" stroke="#f8faf7" stroke-width="28" stroke-linecap="round"/>
+</svg>
